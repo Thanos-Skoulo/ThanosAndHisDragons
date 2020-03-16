@@ -63,4 +63,7 @@ public interface CharacterSheet {
 
     ArrayList<String> getCharacterProficiencyAndLanguages();
     void setCharacterProficiencyAndLanguages(ArrayList characterProficiencyAndLanguages);
+
+    ArrayList<String> getCharacterAttacksAndSpellcasting();
+    void setCharacterAttacksAndSpellcasting(ArrayList characterAttacksAndSpellcasting);
 }
