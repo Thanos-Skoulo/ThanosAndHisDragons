@@ -54,4 +54,7 @@ public interface CharacterSheet {
 
     ArrayList<Integer> getCharacterSavingThrows();
     void setCharacterSavingThrows(ArrayList characterSavingThrows);
+
+    ArrayList<Integer> getCharacterSkills();
+    void setCharacterSkills(ArrayList characterSkills);
 }
