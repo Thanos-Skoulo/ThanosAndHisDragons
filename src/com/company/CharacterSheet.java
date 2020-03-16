@@ -43,4 +43,7 @@ public interface CharacterSheet {
     String getCharacterPersonalityTraits();
     void setCharacterPersonalityTraits(String characterPersonalityTraits);
 
+    String getCharacterIdeals();
+    void setCharacterIdeals(String characterIdeals);
+
 }
