@@ -24,4 +24,10 @@ public interface CharacterSheet {
 
     int getCharacterInitiative();
     void setCharacterInitiative(int characterInitiative);
+
+    int getCharacterSpeed();
+    void setCharacterSpeed(int characterSpeed);
+
+    int getCharacterCurrentHP();
+    void setCharacterCurrentHP(int characterCurrentHP);
 }
