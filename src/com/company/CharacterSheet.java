@@ -9,4 +9,7 @@ public interface CharacterSheet {
 
     ArrayList<String> getCharacterInfos();
     void setCharacterInfos(ArrayList characterInfos);
+
+    ArrayList<Integer> getCharacterStats();
+    void setCharacterStats(ArrayList characterStats);
 }
