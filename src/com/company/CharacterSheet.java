@@ -46,4 +46,7 @@ public interface CharacterSheet {
     String getCharacterIdeals();
     void setCharacterIdeals(String characterIdeals);
 
+    String getCharacterBonds();
+    void setCharacterBonds(String characterBonds);
+
 }
