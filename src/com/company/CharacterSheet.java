@@ -36,4 +36,7 @@ public interface CharacterSheet {
 
     int getCharacterHitDice();
     void setCharacterHitDice(int characterHitDice);
+
+    int getCharacterDeathSaves();
+    void setCharacterDeathSaves(int characterDeathSaves);
 }
