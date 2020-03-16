@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e77c2a0-1076-439f-8187-0780dde0f0c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CharacterSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CharacterSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CharacterSheet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/CharacterSheet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="355">
+              <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -120,6 +119,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -139,23 +143,167 @@
       <option name="project" value="LOCAL" />
       <updated>1584356082377</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="get and set Character infos">
+      <created>1584359526855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584359526855</updated>
+    </task>
+    <task id="LOCAL-00003" summary="get and set Character Stats">
+      <created>1584359679352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584359679352</updated>
+    </task>
+    <task id="LOCAL-00004" summary="get and set Character Inspiration">
+      <created>1584359892226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584359892226</updated>
+    </task>
+    <task id="LOCAL-00005" summary="get and set Character Proficiency Bonus">
+      <created>1584360040326</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360040326</updated>
+    </task>
+    <task id="LOCAL-00006" summary="get and set Character Armor Class">
+      <created>1584360253677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360253677</updated>
+    </task>
+    <task id="LOCAL-00007" summary="get and set Character Initiative">
+      <created>1584360325854</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360325854</updated>
+    </task>
+    <task id="LOCAL-00008" summary="get and set Character Current HP">
+      <created>1584360553846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360553846</updated>
+    </task>
+    <task id="LOCAL-00009" summary="get and set Character Temporary HP">
+      <created>1584360656246</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360656246</updated>
+    </task>
+    <task id="LOCAL-00010" summary="get and set Character Temporary HP">
+      <created>1584360918371</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360918371</updated>
+    </task>
+    <task id="LOCAL-00011" summary="get and set Character Hit Dice">
+      <created>1584360998776</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360998776</updated>
+    </task>
+    <task id="LOCAL-00012" summary="get and set Character Death Saves">
+      <created>1584361161119</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584361161119</updated>
+    </task>
+    <task id="LOCAL-00013" summary="get and set Character Personality Traits">
+      <created>1584361460753</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584361460753</updated>
+    </task>
+    <task id="LOCAL-00014" summary="get and set Character Ideals">
+      <created>1584361536467</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1584361536467</updated>
+    </task>
+    <task id="LOCAL-00015" summary="get and set Character Bonds">
+      <created>1584361633511</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1584361633511</updated>
+    </task>
+    <task id="LOCAL-00016" summary="get and set Character Flaws">
+      <created>1584361692167</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1584361692167</updated>
+    </task>
+    <task id="LOCAL-00017" summary="get and set Character Saving Throws">
+      <created>1584361866770</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1584361866770</updated>
+    </task>
+    <task id="LOCAL-00018" summary="get and set Character Skills">
+      <created>1584361922795</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1584361922795</updated>
+    </task>
+    <task id="LOCAL-00019" summary="get and set Character Passive Wisdom">
+      <created>1584362048841</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1584362048841</updated>
+    </task>
+    <task id="LOCAL-00020" summary="get and set Character Passive Wisdom(correction)">
+      <created>1584362214699</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1584362214699</updated>
+    </task>
+    <task id="LOCAL-00021" summary="get and set Character Proficiency and Languages">
+      <created>1584362278620</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1584362278620</updated>
+    </task>
+    <task id="LOCAL-00022" summary="get and set Character Attacks and Spellcasting">
+      <created>1584362427794</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1584362427794</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32872504" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -163,32 +311,55 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32872504" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add skeleton project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add skeleton project" />
+    <MESSAGE value="get and set Character infos" />
+    <MESSAGE value="get and set Character Stats" />
+    <MESSAGE value="get and set Character Inspiration" />
+    <MESSAGE value="get and set Character Proficiency Bonus" />
+    <MESSAGE value="get and set Character Armor Class" />
+    <MESSAGE value="get and set Character Initiative" />
+    <MESSAGE value="get and set Character Current HP" />
+    <MESSAGE value="get and set Character Temporary HP" />
+    <MESSAGE value="get and set Character Hit Dice" />
+    <MESSAGE value="get and set Character Death Saves" />
+    <MESSAGE value="get and set Character Personality Traits" />
+    <MESSAGE value="get and set Character Ideals" />
+    <MESSAGE value="get and set Character Bonds" />
+    <MESSAGE value="get and set Character Flaws" />
+    <MESSAGE value="get and set Character Saving Throws" />
+    <MESSAGE value="get and set Character Skills" />
+    <MESSAGE value="get and set Character Passive Wisdom" />
+    <MESSAGE value="get and set Character Passive Wisdom(correction)" />
+    <MESSAGE value="get and set Character Proficiency and Languages" />
+    <MESSAGE value="get and set Character Attacks and Spellcasting" />
+    <option name="LAST_COMMIT_MESSAGE" value="get and set Character Attacks and Spellcasting" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CharacterSheet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        <state relative-caret-position="355">
+          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
         </state>
       </provider>
     </entry>
