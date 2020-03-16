@@ -39,4 +39,8 @@ public interface CharacterSheet {
 
     int getCharacterDeathSaves();
     void setCharacterDeathSaves(int characterDeathSaves);
+
+    String getCharacterPersonalityTraits();
+    void setCharacterPersonalityTraits(String characterPersonalityTraits);
+
 }
