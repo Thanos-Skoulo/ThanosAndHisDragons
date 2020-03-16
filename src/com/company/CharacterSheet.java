@@ -66,4 +66,7 @@ public interface CharacterSheet {
 
     ArrayList<String> getCharacterAttacksAndSpellcasting();
     void setCharacterAttacksAndSpellcasting(ArrayList characterAttacksAndSpellcasting);
+
+    ArrayList<String> getCharacterEquipment();
+    void setCharacterEquipment(ArrayList characterEquipment);
 }
