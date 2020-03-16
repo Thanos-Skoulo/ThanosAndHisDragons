@@ -30,4 +30,7 @@ public interface CharacterSheet {
 
     int getCharacterCurrentHP();
     void setCharacterCurrentHP(int characterCurrentHP);
+
+    int getCharacterTemporaryHP();
+    void setCharacterTemporaryHP(int characterTemporaryHP);
 }
