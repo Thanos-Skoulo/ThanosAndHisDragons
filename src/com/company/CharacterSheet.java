@@ -57,4 +57,7 @@ public interface CharacterSheet {
 
     ArrayList<Integer> getCharacterSkills();
     void setCharacterSkills(ArrayList characterSkills);
+
+    int getCharactersPassiveWisdom();
+    void setCharacterPassiveWisdom(int characterPassiveWisdom);
 }
