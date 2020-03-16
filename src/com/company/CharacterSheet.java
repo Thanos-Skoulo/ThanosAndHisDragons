@@ -51,4 +51,7 @@ public interface CharacterSheet {
 
     String getCharacterFlaws();
     void setCharacterFlaws(String characterFlaws);
+
+    ArrayList<Integer> getCharacterSavingThrows();
+    void setCharacterSavingThrows(ArrayList characterSavingThrows);
 }
