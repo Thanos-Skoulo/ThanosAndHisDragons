@@ -22,4 +22,6 @@ public interface CharacterSheet {
     int getCharacterArmorClass();
     void setCharacterArmorClass(int characterArmorClass);
 
+    int getCharacterInitiative();
+    void setCharacterInitiative(int characterInitiative);
 }
