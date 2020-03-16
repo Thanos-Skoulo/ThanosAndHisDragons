@@ -12,4 +12,8 @@ public interface CharacterSheet {
 
     ArrayList<Integer> getCharacterStats();
     void setCharacterStats(ArrayList characterStats);
+
+    int getCharacterInspiration();
+    void setCharacterInspiration(int characterInspiration);
+
 }
