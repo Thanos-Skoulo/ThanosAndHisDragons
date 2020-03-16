@@ -69,4 +69,7 @@ public interface CharacterSheet {
 
     ArrayList<String> getCharacterEquipment();
     void setCharacterEquipment(ArrayList characterEquipment);
+
+    ArrayList<String> getCharacterFeaturesAndTraits();
+    void setCharacterFeaturesAndTraits(ArrayList characterFeaturesAndTraits);
 }

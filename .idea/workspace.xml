@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/CharacterSheet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="64" column="89" selection-start-line="64" selection-start-column="89" selection-end-line="64" selection-end-column="89" />
+            <state relative-caret-position="355">
+              <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -276,7 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584362214699</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="get and set Character Proficiency and Languages">
+      <created>1584362278620</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1584362278620</updated>
+    </task>
+    <task id="LOCAL-00022" summary="get and set Character Attacks and Spellcasting">
+      <created>1584362427794</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1584362427794</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -330,7 +344,9 @@
     <MESSAGE value="get and set Character Skills" />
     <MESSAGE value="get and set Character Passive Wisdom" />
     <MESSAGE value="get and set Character Passive Wisdom(correction)" />
-    <option name="LAST_COMMIT_MESSAGE" value="get and set Character Passive Wisdom(correction)" />
+    <MESSAGE value="get and set Character Proficiency and Languages" />
+    <MESSAGE value="get and set Character Attacks and Spellcasting" />
+    <option name="LAST_COMMIT_MESSAGE" value="get and set Character Attacks and Spellcasting" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
@@ -342,8 +358,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CharacterSheet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="64" column="89" selection-start-line="64" selection-start-column="89" selection-end-line="64" selection-end-column="89" />
+        <state relative-caret-position="355">
+          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
         </state>
       </provider>
     </entry>
