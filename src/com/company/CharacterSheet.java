@@ -58,6 +58,8 @@ public interface CharacterSheet {
     ArrayList<Integer> getCharacterSkills();
     void setCharacterSkills(ArrayList characterSkills);
 
-    int getCharactersPassiveWisdom();
+    int getCharacterPassiveWisdom();
     void setCharacterPassiveWisdom(int characterPassiveWisdom);
+
+
 }
