@@ -34,4 +34,6 @@ public interface CharacterSheet {
     int getCharacterTemporaryHP();
     void setCharacterTemporaryHP(int characterTemporaryHP);
 
+    int getCharacterHitDice();
+    void setCharacterHitDice(int characterHitDice);
 }
