@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e77c2a0-1076-439f-8187-0780dde0f0c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/CharacterSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CharacterSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/CharacterSheet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="321">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -171,7 +171,35 @@
       <option name="project" value="LOCAL" />
       <updated>1584360040326</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="get and set Character Armor Class">
+      <created>1584360253677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360253677</updated>
+    </task>
+    <task id="LOCAL-00007" summary="get and set Character Initiative">
+      <created>1584360325854</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360325854</updated>
+    </task>
+    <task id="LOCAL-00008" summary="get and set Character Current HP">
+      <created>1584360553846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360553846</updated>
+    </task>
+    <task id="LOCAL-00009" summary="get and set Character Temporary HP">
+      <created>1584360656246</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360656246</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -211,7 +239,11 @@
     <MESSAGE value="get and set Character Stats" />
     <MESSAGE value="get and set Character Inspiration" />
     <MESSAGE value="get and set Character Proficiency Bonus" />
-    <option name="LAST_COMMIT_MESSAGE" value="get and set Character Proficiency Bonus" />
+    <MESSAGE value="get and set Character Armor Class" />
+    <MESSAGE value="get and set Character Initiative" />
+    <MESSAGE value="get and set Character Current HP" />
+    <MESSAGE value="get and set Character Temporary HP" />
+    <option name="LAST_COMMIT_MESSAGE" value="get and set Character Temporary HP" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
@@ -223,8 +255,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CharacterSheet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="321">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>

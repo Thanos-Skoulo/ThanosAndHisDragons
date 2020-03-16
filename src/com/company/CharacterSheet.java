@@ -33,4 +33,5 @@ public interface CharacterSheet {
 
     int getCharacterTemporaryHP();
     void setCharacterTemporaryHP(int characterTemporaryHP);
+
 }
