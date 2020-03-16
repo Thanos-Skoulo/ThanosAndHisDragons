@@ -61,5 +61,6 @@ public interface CharacterSheet {
     int getCharacterPassiveWisdom();
     void setCharacterPassiveWisdom(int characterPassiveWisdom);
 
-
+    ArrayList<String> getCharacterProficiencyAndLanguages();
+    void setCharacterProficiencyAndLanguages(ArrayList characterProficiencyAndLanguages);
 }
