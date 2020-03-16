@@ -18,4 +18,8 @@ public interface CharacterSheet {
 
     int getCharacterProficiencyBonus();
     void setCharacterProficiencyBonus(int characterProficiencyBonus);
+
+    int getCharacterArmorClass();
+    void setCharacterArmorClass(int characterArmorClass);
+
 }
