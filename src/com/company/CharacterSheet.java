@@ -16,4 +16,6 @@ public interface CharacterSheet {
     int getCharacterInspiration();
     void setCharacterInspiration(int characterInspiration);
 
+    int getCharacterProficiencyBonus();
+    void setCharacterProficiencyBonus(int characterProficiencyBonus);
 }
